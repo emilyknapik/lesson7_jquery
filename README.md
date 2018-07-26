@@ -13,8 +13,7 @@ Web Application Development
 (In this assignment I had to create my own java script and html files and learn how to edit and duplicate them.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://emilyknapik.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
 1. (A lesson I learned was how to duplicate an html file and make changes throughout the document and webpage on Cloud 9.)
